@@ -1,0 +1,8 @@
+{
+    "name": "suvorov/ant-plugins",
+	"type": "plugins",
+	"description": "Plugins for Apache Ant",
+    "keywords": ["ant", "apache", "crc32"],
+    "homepage": "http://ant.apache.org/",
+	"license": "MIT"
+}
